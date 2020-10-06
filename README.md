@@ -51,3 +51,7 @@ Winner: Khan
 
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 16f8fb0be1694384fde2971c57378d67e1f2698c
